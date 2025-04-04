@@ -1,7 +1,7 @@
 # EXAMEN PARCIAL
 
-repositorio: https://github.com/mdedifer/ParcialRedes  
-pages: https://mdedifer.github.io/ParcialRedes/
+repositorio: https://github.com/mdedifer/Parcial_Redes  
+pages: https://mdedifer.github.io/Parcial_Redes/
 
 ## Parte 1: Teoría y Conceptos
 
